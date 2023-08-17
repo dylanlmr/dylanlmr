@@ -162,9 +162,9 @@ Whether it's building web applications or diving into data analytics, I enjoy th
 
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dylanlmr&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dylanlmr&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanlmr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dylanlmr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 # 📊 Codewars Stats:
